@@ -1,4 +1,3 @@
-
 import SwiftUI
 
 struct WelcomeScreenView: View {
@@ -42,5 +41,3 @@ struct WelcomeScreenView_Previews: PreviewProvider {
         WelcomeScreenView()
     }
 }
-
-
